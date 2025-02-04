@@ -21,6 +21,7 @@ pip install requests pandas openpyxl
 ## Usage
 
 1.Clone the repository or copy the script.
+
 2.Run the script using Python:
 
 ```bash
