@@ -6,3 +6,4 @@ data = response.json()
 
 # JSON keys
 print(data.keys())
+print(data["page"][:2])
