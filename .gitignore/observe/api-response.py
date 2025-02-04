@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://api.hakmarexpress.com.tr/api/home/slug/ev-yasam-c"
+url = "https://api.hakmarexpress.com.tr/api/home/slug/anne-bebek-c?"
 
 response = requests.get(url)
 data = response.json()
